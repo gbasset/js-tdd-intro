@@ -1,0 +1,25 @@
+{
+  "name": "js-tdd-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalizeFirstLetters.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbasset/js-tdd-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbasset/js-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/gbasset/js-tdd-intro#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
